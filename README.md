@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 creat rss for yii2 framework
 ============================
 creat rss uses by array or db query data
@@ -29,3 +30,7 @@ Once the extension is installed, simply use it in your code by  :
 
 ```php
 <?= \persianyii\rss\AutoloadExample::widget(); ?>```
+=======
+# persianyii-rss
+create rss uses by array or db query data
+>>>>>>> 2c3f8d0d7beef72861c0e963182b642a55d5cb14
